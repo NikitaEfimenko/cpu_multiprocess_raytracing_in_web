@@ -1,0 +1,1 @@
+sudo docker run  --name python-app -p 3001:3001 flask-docker-app
